@@ -1,2 +1,0 @@
-# Mi-lista
-IPTV
